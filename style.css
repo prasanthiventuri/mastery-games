@@ -1,0 +1,68 @@
+/* Task-1 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    color: grey;
+}
+.container{
+    padding: 20px;
+    background-color: black;
+    color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+span{
+    padding: 10px;
+
+}
+/*Task-2*/
+.container-1{
+    padding: 10px;
+    display: flex;
+    background-color: azure;
+    color: aliceblue;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.item-g{
+    background-color: beige;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+}
+.item-01{
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+}
+.item-01 .bi{
+    margin: 10px;
+}
+.item-02{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    color: bisque;
+}
+.p{
+    display: inline-block;
+
+}
+/*Task-3*/
+.container-3{
+    display: flex;
+    background-color: black;
+    color: beige;
+    padding: 20px;
+    justify-content: space-evenly;
+}
